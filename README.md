@@ -9,6 +9,7 @@ PRODI : SISTEM INFORMASI - B
 
 FLOWCHART
 
+<img width="2096" height="1331" alt="Flowchart" src="https://github.com/user-attachments/assets/07bf5201-f334-4620-82d2-ff8c847baf30" />
 
 
 
